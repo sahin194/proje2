@@ -1,6 +1,6 @@
 # Proje 2
 
-[patika.dev](www.patika.dev)
+[patika.dev](https://app.patika.dev/sahinistambul)
 
 [16,21,11,8,12,22] -> Merge Sort
 
